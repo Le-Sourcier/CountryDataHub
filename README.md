@@ -7,7 +7,7 @@ CountryDataHub is a centralized repository providing comprehensive information a
 ## Features
 
 - 🌍 Access information on countries worldwide.
-- 📊 Comprehensive data, including country codes, names, dialing numbers, and ISO codes.
+- 📊 Comprehensive data, including country codes, names, dialing numbers, and ISO codes and more.
 - 🚀 Fast and easy integration for developers.
 
 ## Usage
